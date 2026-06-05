@@ -1,0 +1,6 @@
+{
+  "name": "HHT Capital",
+  "description": "Premium wholesale financial investment promoter, corporate structural adviser, and digital ESG-aligned capital router in Vietnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
